@@ -82,7 +82,7 @@ class TestUsers(TestBase):
                 print(user['email'])
                 assert 'email' in user.keys()
             
-            current_page += 1`
+            current_page += 1
             
 
 
